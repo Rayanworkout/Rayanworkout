@@ -1,4 +1,3 @@
-![Image](background.jpg)
 <h1 align="center">Hello 👋, I'm Rayan</h1>
 <h3 align="center">A motivated web developer from France</h3>
 
