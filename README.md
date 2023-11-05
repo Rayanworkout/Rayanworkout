@@ -6,13 +6,11 @@ src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c8
 
 - 🔭 Currently working on [GenQuit](https://github.com/Rayanworkout/GenQuit-Generateur-de-Quittances)
 
-- 🌱 and learning **JS / TS, NodeJS, ExpressJS and React**
+- 🌱 Learning **JS / TS, NodeJS, ExpressJS and React**
 
-- 📝 I regularly write articles on [https://medium.com/@0xRayan_](https://medium.com/@0xRayan_)
+- 📝 I have written some articles on [https://medium.com/@0xRayan_](https://medium.com/@0xRayan_)
 
-- 💬 Ask me about **Python**
-
-- 📫 How to reach me **rayan13170@protonmail.com**
+- 📫 Reach me at **rayan13170@protonmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
