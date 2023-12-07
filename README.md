@@ -27,27 +27,5 @@ src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c8
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
                 alt="css3" width="40" height="40" /> </a> 
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img
-            src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" /> </a> 
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
-            alt="pandas" width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank"
-        rel="noreferrer"> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img
-                src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn"
-                width="40" height="40" /> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-            <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" />
-        </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"
-                alt="selenium" width="40" height="40" /> </a> <a href="https://www.sqlite.org/" target="_blank"
-            rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite"
-                width="40" height="40" /> </a>
-        <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img
-                src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" />
-        </a>
-        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-                alt="bootstrap" width="40" height="40" /> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" />
-        </a>
-</p>
-
+            src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" />
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayanworkout&show_icons=true&locale=en&layout=compact" alt="rayanworkout" /></p>
