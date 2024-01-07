@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Rayan</h1>
 <h3 align="center">A motivated web developer from south of France</h3>
 
-- 📚 Currently learning **Typescript with NodeJS, ExpressJS and React.**
+- 📚 Currently learning **Typescript with NodeJS and Nuxt (VueJS).**
 
 - 📝 I have written some articles on [https://medium.com/@0xRayan_](https://medium.com/@0xRayan_)
 
