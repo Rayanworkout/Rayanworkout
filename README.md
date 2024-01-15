@@ -3,7 +3,7 @@
 
 - 📚 Currently learning **Typescript with NodeJS and Nuxt (VueJS).**
 
-- 📝 I have written some articles on [https://medium.com/@0xRayan_](https://medium.com/@0xRayan_)
+- 📝 I have written some articles on [Medium](https://medium.com/@0xRayan) and [my personal website](https://rayan.sh/blog)
 
 - 📫 Reach me at **rayan13170@protonmail.com**
 
