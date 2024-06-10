@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Rayan</h1>
 <h3 align="center">A motivated web developer with strong interest in DevOps</h3>
 
-- 📚 Currently enhancing my **Python / Django / DevOps proficiency.**
+- 📚 Currently enhancing my **Python / Rust / DevOps proficiency.**
 
 - 📝 I have written some articles on [Medium](https://medium.com/@0xRayan) and [my personal website](https://rayan.sh/blog)
 
