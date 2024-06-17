@@ -3,7 +3,7 @@
 
 - 📚 Currently enhancing my **Python / Rust / DevOps proficiency.**
 
-- 📝 I have written some articles on [Medium](https://medium.com/@0xRayan) and [my personal website](https://rayan.sh/blog)
+- 📝 I have written some articles on [Medium](https://medium.com/@0xRayan).
 
 - 📫 Reach me at **rayan13170@protonmail.com**
 
