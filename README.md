@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Rayan</h1>
 <h3 align="center">Data Analyst, DevOps Engineer</h3>
 
-- 📚 Currently enhancing my **Python / Java proficiency.**
+- 📚 Currently enhancing my **Python / Rust proficiency.**
 
 - 📝 I have written some articles on [Medium](https://medium.com/@0xRayan).
 
