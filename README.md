@@ -7,4 +7,4 @@
 
 - 📫 Reach me at **rayan13170@protonmail.com**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayanworkout&show_icons=true&locale=en&layout=compact" alt="rayanworkout" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rayanworkout&theme=dark)](https://git.io/streak-stats)
