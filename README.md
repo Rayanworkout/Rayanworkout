@@ -6,5 +6,3 @@
 - 📝 I have written some articles on [Medium](https://medium.com/@0xRayan_).
 
 - 📫 Reach me at **rayan13170@protonmail.com**
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Rayanworkout&theme=dark)](https://git.io/streak-stats)
